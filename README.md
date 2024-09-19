@@ -8,5 +8,7 @@ git config--global user.name "soek345"
 git config--global user.email "tkddbstjrdbs123@g.shingu.ac.kr"
 git confi--list
 
+두번째 수정
+
 2024-9-19 깃허브연동실습
 로컬에서 편집함
