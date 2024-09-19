@@ -1,6 +1,12 @@
 # project1-2024
 2024-2학기 캡스톤 프로젝트 수업
 
+1. 소스 수정
+2. 소스 저장
+3. 스테이지
+4. 커밋에 푸쉬
+5. 커밋메시지
+
 git 설정
 git config--global user.name "soek345"
 git config--global user.email "tkddbstjrdbs123@g.shingu.ac.kr"
