@@ -2,8 +2,6 @@
 2024-2학기 캡스톤 프로젝트 수업
 
 git 설정
-
-pwd
 git config--global user.name "soek345"
 git config--global user.email "tkddbstjrdbs123@g.shingu.ac.kr"
 git confi--list
