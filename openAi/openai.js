@@ -29,7 +29,7 @@ function talk(){
         errormsg = error.status + " : " + error.responseJSON.error.code + " - " + error.responseJSON.error.code.messages
         alert(errormsg)
     }
-    )
+    ) 
         
     
 }    
