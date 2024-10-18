@@ -1,4 +1,4 @@
-const GOOGLEAPI_KEY = "AIzaSyBZCWwGS6gDDuBfqhiilC33DuNjWgp8taE";
+const GOOGLEAPI_KEY = "";
 
 function processFile(event) {
     const content = event.target.result;
