@@ -21,7 +21,12 @@ $.ajax({
 
 ```
 # openAI
-api키를 이용하기
+api키를 이용하기 
+[실습해보기]  
+        (url: "https://api.openai.com/v1/chat/completions",)
+        (url: "https://api.openai.com/v1/images/generations",)
+        
+
 ```
   $.ajax({
         type:"POST",
@@ -44,6 +49,7 @@ api키를 이용하기
 
 # google cloud vision
 구글 api키를 이용하기
+[실습해보기] 
 ```
   $.ajax({
         type: "POST",
