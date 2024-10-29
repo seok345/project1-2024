@@ -44,6 +44,7 @@ api키를 이용하기
 
 # google cloud vision
 구글 api키를 이용하기
+```
   $.ajax({
         type: "POST",
         url: 'https://vision.googleapis.com/v1/images:annotate?key=' + GOOGLEAPI_KEY,
@@ -54,7 +55,7 @@ api키를 이용하기
         data: JSON.stringify(data),
         contentType: "application/json; charset=utf-8"
     })
-
+```
 1. 소스 수정
 2. 소스 저장
 3. 스테이지
