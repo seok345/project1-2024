@@ -2,6 +2,11 @@
 2024-2학기 캡스톤 프로젝트 수업  
 openAPI를 사용한 인공지능 시스템 실습
 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj5K08rKxUEHZsgxTHElnQc6bFEmuVzD6FUg&s">
+<img src="https://kasterra.github.io/images/thumbnails/CSS.png">
+<img src="https://s3.ap-northeast-2.amazonaws.com/grepp-cloudfront/programmers_imgs/learn/thumb-course-java-intermediate.jpg">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu8Dqyl7oWTmc-np8q_R7neO9HORid4bsN6w&s">
+
 # openweathermap
 
 지정된 장소의 현재 날씨를 표시
