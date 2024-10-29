@@ -22,8 +22,8 @@ $.ajax({
 ```
 # openAI
 api키를 이용하기 
-[실습해보기](https://api.openai.com/v1/chat/completions)
-[실습해보기](https://api.openai.com/v1/images/generations)
+[실습해보기1](https://api.openai.com/v1/chat/completions)
+[실습해보기2](https://api.openai.com/v1/images/generations)
         
 
 ```
