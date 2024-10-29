@@ -21,10 +21,39 @@ $.ajax({
 
 ```
 # openAI
-
-
+api키를 이용하기
+```
+  $.ajax({
+        type:"POST",
+        url: "https://api.openai.com/v1/chat/completions",
+        headers:{
+            "Authorization": "Bearer " + OPENAPI_KEY
+        },
+        data: JSON.stringify(data),
+        contentType: "application/json; charset=utf-8"
+    }).done( function(response){
+        console.log(response)
+        alert(response.choices[0].messge.content)
+    }).fail(function(error){
+        console.log(error)
+        errormsg = error.status + " : " + error.responseJSON.error.code + " - " + error.responseJSON.error.code.messages
+        alert(errormsg)
+    }
+    ) 
+```
 
 # google cloud vision
+구글 api키를 이용하기
+  $.ajax({
+        type: "POST",
+        url: 'https://vision.googleapis.com/v1/images:annotate?key=' + GOOGLEAPI_KEY,
+        headers: {
+            "Accept": "application/json",
+            "Content-Type": "application/json"
+        },
+        data: JSON.stringify(data),
+        contentType: "application/json; charset=utf-8"
+    })
 
 1. 소스 수정
 2. 소스 저장
