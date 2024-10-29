@@ -22,8 +22,8 @@ $.ajax({
 ```
 # openAI
 api키를 이용하기 
-[실습해보기]("https://api.openai.com/v1/chat/completions",)
-[실습해보기]("https://api.openai.com/v1/images/generations",)
+[실습해보기](https://api.openai.com/v1/chat/completions)
+[실습해보기](https://api.openai.com/v1/images/generations)
         
 
 ```
@@ -48,7 +48,7 @@ api키를 이용하기
 
 # google cloud vision
 구글 api키를 이용하기
-[실습해보기]('https://vision.googleapis.com/v1/images:annotate?key=')
+[실습해보기](https://vision.googleapis.com/v1/images:annotate?key=)
 
 ```
   $.ajax({
