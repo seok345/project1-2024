@@ -3,7 +3,6 @@
 openAPI를 사용한 인공지능 시스템 실습
 
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
-![image](https://github.com/user-attachments/assets/b6494c32-db07-4713-8a8c-e1c1d2aa11b3)
 
 # openweathermap
 
@@ -23,6 +22,8 @@ $.ajax({
 
 
 ```
+<img width="960" alt="화면 캡처 2024-10-30 191113" src="https://github.com/user-attachments/assets/dc6f1958-3c9d-46f8-a182-65a8ccd95e9a">
+
 # openAI
 api키를 이용하기 
 [실습해보기1](https://api.openai.com/v1/chat/completions)
@@ -65,6 +66,7 @@ api키를 이용하기
         contentType: "application/json; charset=utf-8"
     })
 ```
+![image](https://github.com/user-attachments/assets/b6494c32-db07-4713-8a8c-e1c1d2aa11b3)
 1. 소스 수정
 2. 소스 저장
 3. 스테이지
